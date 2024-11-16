@@ -1,0 +1,1 @@
+alert('Click on the buttons for different organelles!')
